@@ -5,7 +5,7 @@ void Test()
 	
 }
 
-int main()
+int MainFunction()
 {
 	int x = 0;
 	return 0;
