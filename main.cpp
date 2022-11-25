@@ -1,3 +1,5 @@
+#include Warrior.h
+
 int main()
 {
 	int x = 0;
