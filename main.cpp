@@ -5,7 +5,7 @@ void Test()
 	
 }
 
-int main()
+int MAINFUNC()
 {
 	int x = 0;
 	return 0;
