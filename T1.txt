@@ -1,1 +1,1 @@
-Changed default editor with VS Code
+Changed default editor with VSCode
